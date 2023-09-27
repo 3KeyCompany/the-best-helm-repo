@@ -38,7 +38,9 @@ spec:
             - name: socket
               mountPath: /opt/nfast/sockets
           securityContext:
-            {{- toYaml .Values.securityContext | nindent 12 }}
+            {{- toYaml .Values.sidecarimage.securityContext | nindent 12 }}
+          resources:
+            {{- toYaml .Values.sidecarimage.resources | nindent 12 }}
         - name: {{ .Chart.Name }}
           securityContext:
             {{- toYaml .Values.securityContext | nindent 12 }}

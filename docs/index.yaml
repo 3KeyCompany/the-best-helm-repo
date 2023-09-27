@@ -3,7 +3,17 @@ entries:
   signserver-community-helm:
   - apiVersion: v2
     appVersion: 6.0.0.1
-    created: "2023-09-27T08:03:43.401595006+02:00"
+    created: "2023-09-27T08:21:58.263212925+02:00"
+    description: A Helm chart for running SignServer with Entrus Hardserver in Kubernetes
+    digest: 11054fd6c05922a85121be300fb45f21d4a04edc4bfa273eaa603dfbd8aa01af
+    name: signserver-community-helm
+    type: application
+    urls:
+    - signserver-community-helm-1.4.3.tgz
+    version: 1.4.3
+  - apiVersion: v2
+    appVersion: 6.0.0.1
+    created: "2023-09-27T08:21:58.261446799+02:00"
     description: A Helm chart for running SignServer with Entrus Hardserver in Kubernetes
     digest: 5d12ad2f74186e2eecd8b1a5561722ab7afa254b85ccb795bcc172bdcb0781e9
     name: signserver-community-helm
@@ -13,7 +23,7 @@ entries:
     version: 1.4.2
   - apiVersion: v2
     appVersion: 6.0.0.1
-    created: "2023-09-27T08:03:43.400050764+02:00"
+    created: "2023-09-27T08:21:58.25867248+02:00"
     description: A Helm chart for running SignServer with Entrus Hardserver in Kubernetes
     digest: dcf19a551fdef4f9c3cdd9bdd1b554e691c6329b442b6d52f3cf4d192e53327b
     name: signserver-community-helm
@@ -23,7 +33,7 @@ entries:
     version: 1.3.2
   - apiVersion: v2
     appVersion: 6.0.0.1
-    created: "2023-09-27T08:03:43.39820076+02:00"
+    created: "2023-09-27T08:21:58.255948887+02:00"
     description: A Helm chart for running SignServer with Entrus Hardserver in Kubernetes
     digest: b3dc6762d9e9f638b5efc98c7e627647297bf8ffc7841cf75a580079340a65a8
     name: signserver-community-helm
@@ -33,7 +43,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: 6.0.0.1
-    created: "2023-09-27T08:03:43.396267121+02:00"
+    created: "2023-09-27T08:21:58.254141623+02:00"
     description: A Helm chart for running SignServer with Entrus Hardserver in Kubernetes
     digest: 6c76674bb7f93f962435d11441ccae8882c7c7ecdf47fc27a64bfdf2c48ad24d
     name: signserver-community-helm
@@ -43,7 +53,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 6.0.0.1
-    created: "2023-09-27T08:03:43.370631217+02:00"
+    created: "2023-09-27T08:21:58.251661624+02:00"
     description: A Helm chart for running SignServer with Entrus Hardserver in Kubernetes
     digest: 77f52f68c5a9d685ba0649af4c4fd61ad8a3f1b02e64f4b989df6b147631f6f8
     name: signserver-community-helm
@@ -53,7 +63,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 6.0.0.1
-    created: "2023-09-27T08:03:43.348597026+02:00"
+    created: "2023-09-27T08:21:58.25012684+02:00"
     description: A Helm chart for running SignServer with Entrus Hardserver in Kubernetes
     digest: ccd4c3d60ad24f1681b7733183d50c9c865b13e439ad7c04472b8b942a188ac6
     name: signserver-community-helm
@@ -61,4 +71,4 @@ entries:
     urls:
     - signserver-community-helm-1.1.0.tgz
     version: 1.1.0
-generated: "2023-09-27T08:03:43.312409334+02:00"
+generated: "2023-09-27T08:21:58.248317573+02:00"
