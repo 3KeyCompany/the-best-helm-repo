@@ -125,7 +125,7 @@ spec:
               mountPath: /mnt/external/secrets/tls/cas/ManagementCA.crt
               subPath: ManagementCA.crt
             - name: signserver-config
-              mountPath: /opt/primekey/appserver/bin/standalone.conf
+              mountPath: /opt/keyfactor/appserver/bin/standalone.conf
               subPath: standalone.conf
             - name: kmdata
               mountPath: /opt/nfast/kmdata
