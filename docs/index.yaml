@@ -3,9 +3,9 @@ entries:
   signserver-community-helm:
   - apiVersion: v2
     appVersion: 6.0.0.1
-    created: "2024-01-09T18:20:16.790863331+01:00"
+    created: "2024-01-09T20:09:19.119741473+01:00"
     description: A Helm chart for running SignServer with Entrus Hardserver in Kubernetes
-    digest: 03c5793906f11d075db1f310d74ee842335ed51225ddc3bc9a90e58afc2f9d02
+    digest: cc86325951515a25c6173c517383b47aa80d602e13fba4cc48401044f23dd464
     name: signserver-community-helm
     type: application
     urls:
